@@ -20,7 +20,7 @@
 <a href="https://twitter.com/mertcankarabass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertcankarabass" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mertcankarabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertcankarabas" height="30" width="40" /></a>
 <a href="https://instagram.com/mertcankarabass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertcankarabass" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mertcankarabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mertcankarabas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mertcankarabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mertcankarabas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/karabasmertcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karabasmertcan" height="30" width="40" /></a>
 </p>
 
