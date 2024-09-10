@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mertcankarabass" target="blank"><img src="https://img.shields.io/twitter/follow/mertcankarabass?logo=twitter&style=for-the-badge" alt="mertcankarabass" /></a> </p>
 
-- 🔭 I’m currently working on **My Web Site**
+- 🔭 I’m currently working on **Werare**
 
 - 🌱 I’m currently learning **React and Web Development**
 
