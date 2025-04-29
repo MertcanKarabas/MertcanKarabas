@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Werare**
 
-- 🌱 I’m currently learning **React and Web Development**
+- 🌱 I’m currently learning **Java Spring**
 
 - 📝 I regularly write articles on [https://www.mertcankarabas.com/blog/](https://www.mertcankarabas.com/blog/)
 
